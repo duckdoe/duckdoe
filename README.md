@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hey there! 👋
+
+My name is Fortune, I am software engineer enjoys building stuff things with code.
+
+I like experimenting and working on ideas that make me understand what goes on under the hood.
+I mostly build stuff out of curiousity until it becomes something practical and usable (or atleast
+enough to satisfy my curiousity). 
+
+I am always keen on upskilling myself, and learning new things and this profile is basically where i document
+that process as I learn and Improve.
+
+
+<!-- write your own 2–4 lines here -->
+
+<!-- keep it natural, like you're talking, not presenting -->
+
+Outside of coding, I enjoy listening to music, reading and exploring new ideas
+
+That's about all i know about myself for now.
