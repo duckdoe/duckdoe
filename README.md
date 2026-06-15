@@ -24,9 +24,6 @@ enough to satisfy my curiousity).
 I am always keen on upskilling myself, and learning new things and this profile is basically where i document
 that process as I learn and Improve.
 
-<!-- write your own 2–4 lines here -->
-<!-- keep it natural, like you're talking, not presenting -->
+Outside of code, I spend time listening to music 🎵, reading 📖, and exploring ideas that stick in my head long enough to matter.
 
-Outside of coding, I enjoy listening to music 🎵, reading 📖 and exploring new ideas 💡.
-
-Currently working on being better.
+Currently building, learning, and improving along the way.
