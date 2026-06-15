@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey there! 👋
 
 My name is Fortune, I am software engineer enjoys building stuff things with code.
 
