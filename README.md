@@ -87,6 +87,6 @@ It's usually Rust.
 
 *Portfolio coming soon.*
 
-* [GitHub][https://github.com/duckdoe]
-* [X (Twitter)][https://x.com/fortunecodes_]
+* [GitHub](https://github.com/duckdoe)
+* [X (Twitter)](https://x.com/fortunecodes_)
 * Blog (eventually™)
