@@ -18,7 +18,7 @@ struct Developer {
 let me = Developer {
     name: "Fortune",
     age: 16,
-    location: "SOm",
+    location: "Nigeria",
     currently_learning: vec![
         "Rust",
         "Operating Systems",
