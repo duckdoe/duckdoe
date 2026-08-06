@@ -37,7 +37,7 @@ Currently working on a Unix shell in Rust.
 
 Mostly because using a shell wasn't enough I wanted to know how one actually works.
 
-[View Project ->][https:://github.com/duckdoe/oyster]
+[View Project ->](https:://github.com/duckdoe/oyster)
 
 ---
 
@@ -51,7 +51,8 @@ Reading a reverse proxy implementaion, then writing my own because curiosity got
 
 An Interpreted programing language writting in python, for educational purposes only.
 
-[View Project ->][https://github.com/duckdoe/pigeon]
+[View Project ->](https://github.com/duckdoe/pigeon)
+
 ---
 
 ### 🧪 Whatever Rabbit Hole I'm In This Week
