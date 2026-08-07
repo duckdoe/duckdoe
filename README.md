@@ -37,7 +37,7 @@ Currently working on a Unix shell in Rust.
 
 Mostly because using a shell wasn't enough I wanted to know how one actually works.
 
-[View Project ->](https:://github.com/duckdoe/oyster)
+[View Project ->](https://github.com/duckdoe/oyster)
 
 ---
 
