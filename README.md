@@ -1,10 +1,6 @@
 # Fortune
 
-> *I like using my head to write code, especially in rust*
-
-I'm a 16-year-old developer. I started with web development, somehow ended up fascinated by networking, operating systems, and systems programming, and now I spend a questionable amount of time reading source code and being amazed*
-
-Most of my projects start with *"Meh, what could be so hard"* and end with me learning far more than I planned to.
+Hi, Computers bully me.
 
 ```rust
 struct Developer {
